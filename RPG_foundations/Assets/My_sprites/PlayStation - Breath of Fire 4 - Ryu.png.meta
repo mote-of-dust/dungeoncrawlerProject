@@ -1,0 +1,4424 @@
+fileFormatVersion: 2
+guid: df05d7b005e22124f9f8a5be28ece483
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2988
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad34a20a5154ec42ba897a79c76a17c
+      internalID: 2093331441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2987
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18d1dfaf9d04b43aa2a053f425112b
+      internalID: -1792388017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2988
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb6bc1dfcea304f83c2a30decaab9e
+      internalID: 226418882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2988
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee1d6d482284dc4f91f38601fdaddf6
+      internalID: -787259245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2989
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9f61a95a28bb43b02148b6ffe64f4
+      internalID: -440523973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2942
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a3bacff7472944842bf876844e397
+      internalID: 185190406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2921
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7244a9e86bccf949b52c66149f53b90
+      internalID: 1920903895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2922
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941d954ca26aab4595b6d1dbc0bc8a0
+      internalID: 387726464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2925
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfe7d7e0f81da4082b8490244cb56d
+      internalID: 1694219555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2921
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b87d875916ca534a97a07b07247adbc
+      internalID: 1799912576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2922
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc226fd1664b1d449a7a1bd269ad2f2
+      internalID: 2026577011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2925
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe7ea48c1666e347a741bfa8de41258
+      internalID: -311795025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2926
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756d16afd4b02644b400b88f0bc220b
+      internalID: 2092779683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2927
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ba9e53901c4a42a843e2775daaa3a
+      internalID: -1765612529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2924
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418931ff067dbd649b348d8266cd545a
+      internalID: -1448290257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2922
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c8c19a915085459a392f3d0a60864
+      internalID: -1047427075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2923
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df597340867414f9bd560d23b03e43
+      internalID: 742194035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2925
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ec2255417d5d43b56a9279bc0168c
+      internalID: 797262747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2864
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56efaaa9948270a49be143d6abdad65f
+      internalID: -1221724281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2867
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac27005a8d09e444bd22fd0f5309d29
+      internalID: -2093322830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2867
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a3bcd7d1f97642bc26ec6990dd039
+      internalID: -1602754589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2865
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3bfc5eebdc2540ac161dd62413b5e
+      internalID: -744233152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2864
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f539f06a4764ff448bdc5a53e636e7e
+      internalID: -718913213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2864
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0811f557770295408c7af1ba2a38742
+      internalID: -745156098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2862
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e2f325a3e5054c83a3b43330ec61b
+      internalID: 2053450116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2865
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f461123cc087043867fd4d2508496e
+      internalID: 486128103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2866
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e075d4fa2cb3419317cb3aba8b523
+      internalID: -1546459238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2865
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0655428e4c6f043867aa98b996fa54
+      internalID: 253927305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2865
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab1fc8c0df59654c9ce12942c83fbf6
+      internalID: -719218885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2863
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507f8ce2d3633d46afeb8d0fa7707c4
+      internalID: 625205620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2802
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec264da7240d948b071c82fad2e59b
+      internalID: 453446113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2806
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc994f3de8c54984db59d548dfcb091e
+      internalID: -1212414541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2804
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87626fb0b484ede4ebacc613de50e8a7
+      internalID: 100477464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2802
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f526824299f8a41930dd8a6e293525
+      internalID: -1278579469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2806
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34bff2231d1b249a64e1b6b7c172bb
+      internalID: 956927943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2804
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af405a24a12ebf4aa306901577b066c
+      internalID: 527312158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2747
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535582a0431b7f546afcef5c742b0e8b
+      internalID: -1382352900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2750
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46f48c8fb9b2b847b72bf27a8137687
+      internalID: 1571616284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2754
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d77aa832911ce44591711db5747dd0d
+      internalID: -1406932347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2747
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f0f5af26c4ecb4c82772bd40cdaf86
+      internalID: -1394436893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2750
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e7f7783ddc664ca4ad8da0f2e324f
+      internalID: -1237780427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2754
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d9317c47bdcc2458f88dbf64543d8e
+      internalID: -192316276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2750
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8bbfaa81469264b946a4aa7bc17024
+      internalID: 750294438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2749
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06f387db43cc3488c81c7b5b2bd780
+      internalID: -374177902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2753
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a0343268c0254faf9cd1d7959bb97
+      internalID: -1052843441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2747
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac481818a7820a841bdb4581b0d5b7fd
+      internalID: -410297890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2747
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9b09fd2f0b3f44b3c3f6c941f1102
+      internalID: 444027631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2751
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f9650564b0a94383353150c4b65bb
+      internalID: 1329788315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2700
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981d49f2b444a1e4a90a09f98b8cd774
+      internalID: -524851148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2699
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cab2228cee2a6429078a70856b4ebf
+      internalID: 1295106332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2699
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180285d706cf9a742805a4d0be1154e2
+      internalID: 890806628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2695
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1dded8e41c61b4fa344a5add35da86
+      internalID: 2010384127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2694
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a657a27a54695c45a44453e424f359a
+      internalID: -286688760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2695
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b166247bc2eb48a2c99ad74b427b0
+      internalID: -1222946782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2702
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac625e847c9c74482294d117c3707c
+      internalID: -1174939313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_55
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2698
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a2b59f6190b84c97c408bab86de46
+      internalID: -2094291116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2696
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f870f348af5843a38390fcfd93039
+      internalID: 26990079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2700
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491208eca7d37841b7a8ab951b48528
+      internalID: 10574106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_58
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2694
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250b69beda0ec0479f8259e92e31153
+      internalID: -1791296608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2694
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26fa0687062c2347911fa1ed8bcf8ad
+      internalID: 616652586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2650
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519da5575c5cd764f965222e750ac984
+      internalID: 1531926472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2645
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3557d5bf2b265b142a4c57dbbf886108
+      internalID: -571276420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2642
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37d1bc17c3a0e4095429269bf31a6e
+      internalID: -4900204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2650
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227bbe724aad47640a8f8a51dc550cd9
+      internalID: 272863267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2645
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524da2f3bec00e4ab0f12fd66fbb303
+      internalID: -2121140698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2642
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877d30a0c37aab4b8628aed3bf1f8bc
+      internalID: -1609512300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2578
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65614a6d8cd01409868654ace6f4c3
+      internalID: 1605637437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2578
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecf8a7a7f6b6244b96b3262fdc0be3
+      internalID: 1130120019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2578
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edef3ef5fcca5840933944fd3b5cb04
+      internalID: -745666460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2579
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78e22dfbea640498d5da9c437c5f70
+      internalID: 2023802543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_70
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2579
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eecd215e8fd9b544b7cf195405f815b
+      internalID: 1142625353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2579
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a69d81a363da439859e9717097176
+      internalID: 311038401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2576
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d78a8ec1ed6504fa903c0226f7c8d9
+      internalID: 387075911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2576
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d38f1abdd23efa4c99488738f7d0fe7
+      internalID: 185333356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_74
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2576
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d633d55828bd764e87cacfd9d9cbebe
+      internalID: -1374756704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_75
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2576
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2ccd1eb8df6744a83936782040339
+      internalID: 1151402030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_76
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2576
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a86a6e12aef5e1408c7ac6cabe448d7
+      internalID: -190773120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2576
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03807168c717e03468a1aec816929718
+      internalID: 1908901427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2577
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6774d8489b976847b0a764596b10153
+      internalID: -630561947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_79
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2577
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929bb71244f0b214cb6d4fc56be470ca
+      internalID: -1023601637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_80
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2577
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d663fc4d815d3f44fad0acf536103625
+      internalID: -1609036503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2511
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe8f5da8753c4643ae8e387df6fef78
+      internalID: -1992647216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2511
+        width: 209
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221dd93125e73044a610980be09cf90
+      internalID: -3836075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2511
+        width: 344
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b517b4dcf0c140841109500a86870
+      internalID: -1037952509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2448
+        width: 331
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb961888f9fcec3458fd388a95560753
+      internalID: -384252103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2391
+        width: 136
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e337cf7e93cb248a2817c901fab0ab
+      internalID: -807257079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_86
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2391
+        width: 136
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0de7e35a577df45bfb486d5f52ab71
+      internalID: 482862107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2324
+        width: 793
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37ee275701b4cc42848ab83b1d5453c
+      internalID: -1125372753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2267
+        width: 477
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27274ecec99f61e428b8c960f108a6c4
+      internalID: 1437159475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_89
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2267
+        width: 171
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eafe09706786f440ac47a3b26c8e527
+      internalID: 702169194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2203
+        width: 379
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c67975fcd9d0041ab89d98153f2c54
+      internalID: -676566265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2139
+        width: 331
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5da98a982fa0f4392a975fd7d5fdf9
+      internalID: 1302069709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2083
+        width: 780
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afefcd61d24ce64890a89b92858b2b9
+      internalID: 1030785019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2019
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95173b1c9fc6a34ba4786209421def7
+      internalID: 475968748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1966
+        width: 295
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def46a2549d59db4484da96e49b49e33
+      internalID: 2135403341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_95
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1966
+        width: 295
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d9e870c333de4b806f8ace1ce2332
+      internalID: 47470508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1910
+        width: 302
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d7fbcaa23b9e49b5a1d1dfcae3cbf
+      internalID: -1803322186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1854
+        width: 173
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c64db60dbf51344b5c5ad37e3236ae
+      internalID: 1727794783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1798
+        width: 302
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d89684fb870940babc7887971e959
+      internalID: -1582382998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_99
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1743
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae406011437737041aa56ba74465f754
+      internalID: -941285193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_100
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1743
+        width: 177
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4634f24770ed9984380676d69411a9d2
+      internalID: -1145004499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_101
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1743
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f331eca9d9475f44dbaba2bf43e69224
+      internalID: -272744613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1687
+        width: 749
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a28f34c05ec540941bafc0a5480f1
+      internalID: 1763772990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1628
+        width: 727
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cacec769bc775499ccecd253ec3993
+      internalID: -1762281588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1579
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b37e46d0d9d04aac835275676a1a7
+      internalID: -825172913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1531
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e386943f338f4489c084c132bb4739
+      internalID: 784778112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_106
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1531
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08c455aff183745a216df1bb382196
+      internalID: -822566446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1531
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79d34e8e9068e44881e937e7d99f4b
+      internalID: 447844154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1467
+        width: 226
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4d544babedcd649a62d75e67191f09
+      internalID: 219391730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_109
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e1eefba51ffe4fb4c428c72cc3bed
+      internalID: -726390333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1403
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aefec1bd5f12fc4594b065bad2276b2
+      internalID: -1307856609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_111
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1403
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a521d41e11c8df43beb477268a46cfd
+      internalID: -1631558676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1403
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986aa610f7c86684b97aafc2d5e2e230
+      internalID: 1305857688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_113
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1403
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db902a22537a944a84dfe78e3b0b6f
+      internalID: 842657123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_114
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1334
+        width: 1201
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263bc0403982752489611fb6be31225a
+      internalID: 2099656322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_115
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1271
+        width: 133
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae450f6b2ebb59f47a37bcb314a22be3
+      internalID: -1420667206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_116
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1271
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4c78197509054281abc89e1ad63e0
+      internalID: -842265631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_117
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1215
+        width: 141
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2f5bca98f3e44aaa6b16626344f6e
+      internalID: 289381456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1159
+        width: 288
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb669cebeaa3444eac79335b1fa22a7
+      internalID: -685161951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_119
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1159
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d602e7901844b4a893f6a93641ff9e
+      internalID: 1290351716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1103
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f6f29f91785c146b3d5a9b7e3d08db
+      internalID: 1756339506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1103
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239184285dc7a54f89a9abae2650cbe
+      internalID: 1936963840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_122
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1063
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b1952050caf174ca412a8b0dd036fa
+      internalID: -243883989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 997
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f9d193e46caf840a2a2fa8c648d450
+      internalID: -11484831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_124
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 997
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc688babc284442875d1582b75059c
+      internalID: 1440278977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_125
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 997
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1bd5607d15454eb4a7950faf1dd7c
+      internalID: -358006329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 933
+        width: 353
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf01d8b50613448b3ae5646db08725
+      internalID: 858288042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_127
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 877
+        width: 247
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77264532a8da72468140a2657c3fbb1
+      internalID: 114717354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_128
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 875
+        width: 370
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb6bac853d73e418f0d223b8482e82
+      internalID: -856153057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_129
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 817
+        width: 247
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fe4a814fd1c24aa7f5597da608a84
+      internalID: -1884191027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_130
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 815
+        width: 370
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debb024ba452a549850a95488848c33
+      internalID: -1273647574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 755
+        width: 331
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d313bff9122f4292580bf3301af58
+      internalID: -1866120448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 699
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3106b966eac044904cd58ab836715
+      internalID: 1312310388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 643
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984cc30e92bb300419d8f6039ab25c23
+      internalID: 451317040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_134
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 643
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaff9331d9a97a4ebd4d11e93cf418b
+      internalID: -1359589946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_135
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 587
+        width: 586
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc6e3f6df56d642abd2196498d91e4
+      internalID: -1882913403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_136
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 587
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f90459d56cc9743afcd74f8fbe4cb1
+      internalID: -961465189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 535
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bed6b61a12297408dc47db487614f1
+      internalID: -678998656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_138
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 535
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90265061baaa08f44bc69e629d03ea12
+      internalID: -1700995565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_139
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 472
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27deb30bf751841afea42a2f60a027
+      internalID: 1132414115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_140
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb4e91ac12b514287858ce88211058
+      internalID: 1138329878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2beb67de61dcf419f6c147d864204e
+      internalID: -1701758222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_142
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31180f712fdd6c9428db44bd080bbb36
+      internalID: 305328871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_143
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400238de9e24a0489e066e6424d208b
+      internalID: -311744439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffdd5c5be1548a4aba6e4c2c2a6fbbd
+      internalID: 1824831397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486bd82a12999748bb7cbcb40c64772
+      internalID: 1721645661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_146
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 473
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fdb9a7153eff6448c135eea6a9eb54
+      internalID: 1069605102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 410
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92418b7f62acb8942a23355e28ad9d1a
+      internalID: 1958637747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_148
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 410
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357f0f27e7cea24092fdf0c6f24e8c1
+      internalID: -205845273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 410
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4ab53fcaf03f4bbc3243340630855
+      internalID: 647478063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_150
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 410
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5cee6d049d9544b87fa738eabbd878
+      internalID: 1532686770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_151
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 410
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b79ac52e9d64ee4fa60b0a4bc6f2d7a
+      internalID: -153948839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 410
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55c1334a279564f94596d04f478a39
+      internalID: -1602562542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_153
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 410
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372aff806c20b3a4aa79e3bb420cc405
+      internalID: 1085269423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_154
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 410
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bc12ae55b17c42a3b02f24f874175
+      internalID: -185221685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_155
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 410
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b739f83ed06a34da3df9597dfb1af4
+      internalID: 2022496947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_156
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 410
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf225b30f33a494a854b75db0f4ca03
+      internalID: 994668992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_157
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 410
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd643e5cfc3f7734ba905d340e17d442
+      internalID: -602923428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_158
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56720190cf97058409a08a2190f686a2
+      internalID: 944319772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_159
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 410
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a11fbd9f1b28964b87ab91ae8449816
+      internalID: -1842084729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_160
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 410
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39444b9bdfc909648ae444d3d32a9cc2
+      internalID: -1789250785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_161
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 410
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f690a6a9c13b96f48be5afcfad38ecc8
+      internalID: 942744021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_162
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 410
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1f2b1fb181e64781a169d5dc43353
+      internalID: 1115532569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_163
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 410
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875b38a7baaed74baf19a89a9977eb0
+      internalID: -1965046067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 342
+        width: 452
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c45533183cb6f4e9c77d8090ece835
+      internalID: 2030328808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_165
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 274
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a1c0cb79f6bc4ca6d63731c272202
+      internalID: 1137840962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_166
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 274
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5354bcbdb3ef2458a7817e6e2a20db
+      internalID: 503158146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_167
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 274
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c176f14b81e84c833c4d341093129
+      internalID: -55605640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_168
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 274
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582740096e4ceba4ea1b6f302118dcf6
+      internalID: 1432688579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 274
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d67e395a1cddb4096e74779da9c422
+      internalID: 682199038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_170
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 274
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f2b73901005642882e5a20d3b91cb
+      internalID: -2125101584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_171
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 274
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb42348a05cd644aba3f1cb9af01c32
+      internalID: -799214481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_172
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 274
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f27711b56793e46ad3e6c5c7526af4
+      internalID: -1234645699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_173
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 193
+        width: 375
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d642a02a47937a468e9615ca424deac
+      internalID: -326461927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e873c1f3c5c5414e9f8117754ec027c
+      internalID: -1669248147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd10eadf43e34d4990345b370743e84
+      internalID: 1158986111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_176
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d975767131174a895100d0027b2b7
+      internalID: 1876394512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_177
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e05b90fb0a1ea4e9ddf0a78c0dece4
+      internalID: -697223202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_178
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64443d2c39cd8e546a0f72b9b07b6d55
+      internalID: 489032792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_179
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba847c85d44dd4cbe68f612692edb9
+      internalID: 609096867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_180
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85037ffa9b7e61944a3b14754a192caa
+      internalID: -534543375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_181
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0e5cf94e3ccb44bb6ad72260a7091
+      internalID: 1957634317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_182
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20636e182359e48bb0e1346ca886ac
+      internalID: -1840745547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_183
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 131
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0956bc738ea44faf73ac72da85751
+      internalID: 283072296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_184
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 131
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7a34117bf73b488066053e6b39158
+      internalID: 1308316076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_185
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f853294581baa84c865a9c3413ad327
+      internalID: 1149879464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_186
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4bde6ad431b74693bfbac2593b351
+      internalID: -1929429974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_187
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f85fb018ee5e042badb73a3fa1099e
+      internalID: 1512924140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_188
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652606dadd8a7840b53b3441770ac30
+      internalID: -818097714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_189
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c253b1286b7644adc62a93c2bafa6
+      internalID: -1134843651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_190
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 103
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908f0eb2f779b44caee413fa37c70d8
+      internalID: 860528411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_191
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 46
+        width: 151
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89e476b48ccba459f841c215bfa7b7
+      internalID: -1609607534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_192
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 47
+        width: 151
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7aea530ad14b942b763bab5b5312db
+      internalID: -1119571762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_193
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 163
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364294131c8329046b424ac7e47895ee
+      internalID: 394763414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Ryu_194
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 103
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e068a38d0f231747b9192a16739e6cf
+      internalID: -1595156016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Breath of Fire 4 - Ryu_46: 444027631
+      PlayStation - Breath of Fire 4 - Ryu_25: 486128103
+      PlayStation - Breath of Fire 4 - Ryu_62: -4900204
+      PlayStation - Breath of Fire 4 - Ryu_167: -55605640
+      PlayStation - Breath of Fire 4 - Ryu_30: 453446113
+      PlayStation - Breath of Fire 4 - Ryu_114: 2099656322
+      PlayStation - Breath of Fire 4 - Ryu_38: -1406932347
+      PlayStation - Breath of Fire 4 - Ryu_151: -153948839
+      PlayStation - Breath of Fire 4 - Ryu_26: -1546459238
+      PlayStation - Breath of Fire 4 - Ryu_63: 272863267
+      PlayStation - Breath of Fire 4 - Ryu_159: -1842084729
+      PlayStation - Breath of Fire 4 - Ryu_67: 1130120019
+      PlayStation - Breath of Fire 4 - Ryu_188: -818097714
+      PlayStation - Breath of Fire 4 - Ryu_15: -1047427075
+      PlayStation - Breath of Fire 4 - Ryu_116: -842265631
+      PlayStation - Breath of Fire 4 - Ryu_99: -941285193
+      PlayStation - Breath of Fire 4 - Ryu_189: -1134843651
+      PlayStation - Breath of Fire 4 - Ryu_21: -744233152
+      PlayStation - Breath of Fire 4 - Ryu_37: 1571616284
+      PlayStation - Breath of Fire 4 - Ryu_1: -1792388017
+      PlayStation - Breath of Fire 4 - Ryu_5: 185190406
+      PlayStation - Breath of Fire 4 - Ryu_32: 100477464
+      PlayStation - Breath of Fire 4 - Ryu_42: 750294438
+      PlayStation - Breath of Fire 4 - Ryu_75: 1151402030
+      PlayStation - Breath of Fire 4 - Ryu_127: 114717354
+      PlayStation - Breath of Fire 4 - Ryu_14: -1448290257
+      PlayStation - Breath of Fire 4 - Ryu_10: 2026577011
+      PlayStation - Breath of Fire 4 - Ryu_78: -630561947
+      PlayStation - Breath of Fire 4 - Ryu_89: 702169194
+      PlayStation - Breath of Fire 4 - Ryu_165: 1137840962
+      PlayStation - Breath of Fire 4 - Ryu_107: 447844154
+      PlayStation - Breath of Fire 4 - Ryu_134: -1359589946
+      PlayStation - Breath of Fire 4 - Ryu_77: 1908901427
+      PlayStation - Breath of Fire 4 - Ryu_9: 1799912576
+      PlayStation - Breath of Fire 4 - Ryu_0: 2093331441
+      PlayStation - Breath of Fire 4 - Ryu_7: 387726464
+      PlayStation - Breath of Fire 4 - Ryu_110: -1307856609
+      PlayStation - Breath of Fire 4 - Ryu_174: -1669248147
+      PlayStation - Breath of Fire 4 - Ryu_184: 1308316076
+      PlayStation - Breath of Fire 4 - Ryu_49: 1295106332
+      PlayStation - Breath of Fire 4 - Ryu_121: 1936963840
+      PlayStation - Breath of Fire 4 - Ryu_39: -1394436893
+      PlayStation - Breath of Fire 4 - Ryu_126: 858288042
+      PlayStation - Breath of Fire 4 - Ryu_133: 451317040
+      PlayStation - Breath of Fire 4 - Ryu_102: 1763772990
+      PlayStation - Breath of Fire 4 - Ryu_79: -1023601637
+      PlayStation - Breath of Fire 4 - Ryu_147: 1958637747
+      PlayStation - Breath of Fire 4 - Ryu_84: -384252103
+      PlayStation - Breath of Fire 4 - Ryu_163: -1965046067
+      PlayStation - Breath of Fire 4 - Ryu_86: 482862107
+      PlayStation - Breath of Fire 4 - Ryu_80: -1609036503
+      PlayStation - Breath of Fire 4 - Ryu_18: -1221724281
+      PlayStation - Breath of Fire 4 - Ryu_19: -2093322830
+      PlayStation - Breath of Fire 4 - Ryu_181: 1957634317
+      PlayStation - Breath of Fire 4 - Ryu_57: 10574106
+      PlayStation - Breath of Fire 4 - Ryu_70: 1142625353
+      PlayStation - Breath of Fire 4 - Ryu_190: 860528411
+      PlayStation - Breath of Fire 4 - Ryu_169: 682199038
+      PlayStation - Breath of Fire 4 - Ryu_158: 944319772
+      PlayStation - Breath of Fire 4 - Ryu_24: 2053450116
+      PlayStation - Breath of Fire 4 - Ryu_41: -192316276
+      PlayStation - Breath of Fire 4 - Ryu_112: 1305857688
+      PlayStation - Breath of Fire 4 - Ryu_168: 1432688579
+      PlayStation - Breath of Fire 4 - Ryu_152: -1602562542
+      PlayStation - Breath of Fire 4 - Ryu_95: 47470508
+      PlayStation - Breath of Fire 4 - Ryu_100: -1145004499
+      PlayStation - Breath of Fire 4 - Ryu_93: 475968748
+      PlayStation - Breath of Fire 4 - Ryu_142: 305328871
+      PlayStation - Breath of Fire 4 - Ryu_31: -1212414541
+      PlayStation - Breath of Fire 4 - Ryu_166: 503158146
+      PlayStation - Breath of Fire 4 - Ryu_160: -1789250785
+      PlayStation - Breath of Fire 4 - Ryu_44: -1052843441
+      PlayStation - Breath of Fire 4 - Ryu_177: -697223202
+      PlayStation - Breath of Fire 4 - Ryu_43: -374177902
+      PlayStation - Breath of Fire 4 - Ryu_119: 1290351716
+      PlayStation - Breath of Fire 4 - Ryu_64: -2121140698
+      PlayStation - Breath of Fire 4 - Ryu_4: -440523973
+      PlayStation - Breath of Fire 4 - Ryu_53: -1222946782
+      PlayStation - Breath of Fire 4 - Ryu_52: -286688760
+      PlayStation - Breath of Fire 4 - Ryu_101: -272744613
+      PlayStation - Breath of Fire 4 - Ryu_122: -243883989
+      PlayStation - Breath of Fire 4 - Ryu_124: 1440278977
+      PlayStation - Breath of Fire 4 - Ryu_153: 1085269423
+      PlayStation - Breath of Fire 4 - Ryu_125: -358006329
+      PlayStation - Breath of Fire 4 - Ryu_191: -1609607534
+      PlayStation - Breath of Fire 4 - Ryu_178: 489032792
+      PlayStation - Breath of Fire 4 - Ryu_164: 2030328808
+      PlayStation - Breath of Fire 4 - Ryu_22: -718913213
+      PlayStation - Breath of Fire 4 - Ryu_120: 1756339506
+      PlayStation - Breath of Fire 4 - Ryu_176: 1876394512
+      PlayStation - Breath of Fire 4 - Ryu_50: 890806628
+      PlayStation - Breath of Fire 4 - Ryu_2: 226418882
+      PlayStation - Breath of Fire 4 - Ryu_33: -1278579469
+      PlayStation - Breath of Fire 4 - Ryu_130: -1273647574
+      PlayStation - Breath of Fire 4 - Ryu_186: -1929429974
+      PlayStation - Breath of Fire 4 - Ryu_35: 527312158
+      PlayStation - Breath of Fire 4 - Ryu_90: -676566265
+      PlayStation - Breath of Fire 4 - Ryu_185: 1149879464
+      PlayStation - Breath of Fire 4 - Ryu_82: -3836075
+      PlayStation - Breath of Fire 4 - Ryu_111: -1631558676
+      PlayStation - Breath of Fire 4 - Ryu_103: -1762281588
+      PlayStation - Breath of Fire 4 - Ryu_12: 2092779683
+      PlayStation - Breath of Fire 4 - Ryu_58: -1791296608
+      PlayStation - Breath of Fire 4 - Ryu_104: -825172913
+      PlayStation - Breath of Fire 4 - Ryu_175: 1158986111
+      PlayStation - Breath of Fire 4 - Ryu_109: -726390333
+      PlayStation - Breath of Fire 4 - Ryu_76: -190773120
+      PlayStation - Breath of Fire 4 - Ryu_73: 185333356
+      PlayStation - Breath of Fire 4 - Ryu_87: -1125372753
+      PlayStation - Breath of Fire 4 - Ryu_6: 1920903895
+      PlayStation - Breath of Fire 4 - Ryu_96: -1803322186
+      PlayStation - Breath of Fire 4 - Ryu_194: -1595156016
+      PlayStation - Breath of Fire 4 - Ryu_140: 1138329878
+      PlayStation - Breath of Fire 4 - Ryu_180: -534543375
+      PlayStation - Breath of Fire 4 - Ryu_61: -571276420
+      PlayStation - Breath of Fire 4 - Ryu_149: 647478063
+      PlayStation - Breath of Fire 4 - Ryu_94: 2135403341
+      PlayStation - Breath of Fire 4 - Ryu_28: -719218885
+      PlayStation - Breath of Fire 4 - Ryu_106: -822566446
+      PlayStation - Breath of Fire 4 - Ryu_59: 616652586
+      PlayStation - Breath of Fire 4 - Ryu_146: 1069605102
+      PlayStation - Breath of Fire 4 - Ryu_173: -326461927
+      PlayStation - Breath of Fire 4 - Ryu_88: 1437159475
+      PlayStation - Breath of Fire 4 - Ryu_91: 1302069709
+      PlayStation - Breath of Fire 4 - Ryu_34: 956927943
+      PlayStation - Breath of Fire 4 - Ryu_171: -799214481
+      PlayStation - Breath of Fire 4 - Ryu_97: 1727794783
+      PlayStation - Breath of Fire 4 - Ryu_192: -1119571762
+      PlayStation - Breath of Fire 4 - Ryu_65: -1609512300
+      PlayStation - Breath of Fire 4 - Ryu_162: 1115532569
+      PlayStation - Breath of Fire 4 - Ryu_23: -745156098
+      PlayStation - Breath of Fire 4 - Ryu_13: -1765612529
+      PlayStation - Breath of Fire 4 - Ryu_115: -1420667206
+      PlayStation - Breath of Fire 4 - Ryu_148: -205845273
+      PlayStation - Breath of Fire 4 - Ryu_48: -524851148
+      PlayStation - Breath of Fire 4 - Ryu_71: 311038401
+      PlayStation - Breath of Fire 4 - Ryu_183: 283072296
+      PlayStation - Breath of Fire 4 - Ryu_108: 219391730
+      PlayStation - Breath of Fire 4 - Ryu_3: -787259245
+      PlayStation - Breath of Fire 4 - Ryu_161: 942744021
+      PlayStation - Breath of Fire 4 - Ryu_11: -311795025
+      PlayStation - Breath of Fire 4 - Ryu_20: -1602754589
+      PlayStation - Breath of Fire 4 - Ryu_85: -807257079
+      PlayStation - Breath of Fire 4 - Ryu_129: -1884191027
+      PlayStation - Breath of Fire 4 - Ryu_179: 609096867
+      PlayStation - Breath of Fire 4 - Ryu_131: -1866120448
+      PlayStation - Breath of Fire 4 - Ryu_92: 1030785019
+      PlayStation - Breath of Fire 4 - Ryu_157: -602923428
+      PlayStation - Breath of Fire 4 - Ryu_36: -1382352900
+      PlayStation - Breath of Fire 4 - Ryu_144: 1824831397
+      PlayStation - Breath of Fire 4 - Ryu_74: -1374756704
+      PlayStation - Breath of Fire 4 - Ryu_105: 784778112
+      PlayStation - Breath of Fire 4 - Ryu_135: -1882913403
+      PlayStation - Breath of Fire 4 - Ryu_56: 26990079
+      PlayStation - Breath of Fire 4 - Ryu_68: -745666460
+      PlayStation - Breath of Fire 4 - Ryu_69: 2023802543
+      PlayStation - Breath of Fire 4 - Ryu_16: 742194035
+      PlayStation - Breath of Fire 4 - Ryu_72: 387075911
+      PlayStation - Breath of Fire 4 - Ryu_193: 394763414
+      PlayStation - Breath of Fire 4 - Ryu_182: -1840745547
+      PlayStation - Breath of Fire 4 - Ryu_137: -678998656
+      PlayStation - Breath of Fire 4 - Ryu_150: 1532686770
+      PlayStation - Breath of Fire 4 - Ryu_128: -856153057
+      PlayStation - Breath of Fire 4 - Ryu_156: 994668992
+      PlayStation - Breath of Fire 4 - Ryu_29: 625205620
+      PlayStation - Breath of Fire 4 - Ryu_81: -1992647216
+      PlayStation - Breath of Fire 4 - Ryu_83: -1037952509
+      PlayStation - Breath of Fire 4 - Ryu_138: -1700995565
+      PlayStation - Breath of Fire 4 - Ryu_40: -1237780427
+      PlayStation - Breath of Fire 4 - Ryu_145: 1721645661
+      PlayStation - Breath of Fire 4 - Ryu_155: 2022496947
+      PlayStation - Breath of Fire 4 - Ryu_141: -1701758222
+      PlayStation - Breath of Fire 4 - Ryu_8: 1694219555
+      PlayStation - Breath of Fire 4 - Ryu_118: -685161951
+      PlayStation - Breath of Fire 4 - Ryu_27: 253927305
+      PlayStation - Breath of Fire 4 - Ryu_113: 842657123
+      PlayStation - Breath of Fire 4 - Ryu_51: 2010384127
+      PlayStation - Breath of Fire 4 - Ryu_98: -1582382998
+      PlayStation - Breath of Fire 4 - Ryu_139: 1132414115
+      PlayStation - Breath of Fire 4 - Ryu_132: 1312310388
+      PlayStation - Breath of Fire 4 - Ryu_66: 1605637437
+      PlayStation - Breath of Fire 4 - Ryu_187: 1512924140
+      PlayStation - Breath of Fire 4 - Ryu_154: -185221685
+      PlayStation - Breath of Fire 4 - Ryu_117: 289381456
+      PlayStation - Breath of Fire 4 - Ryu_47: 1329788315
+      PlayStation - Breath of Fire 4 - Ryu_170: -2125101584
+      PlayStation - Breath of Fire 4 - Ryu_143: -311744439
+      PlayStation - Breath of Fire 4 - Ryu_136: -961465189
+      PlayStation - Breath of Fire 4 - Ryu_17: 797262747
+      PlayStation - Breath of Fire 4 - Ryu_172: -1234645699
+      PlayStation - Breath of Fire 4 - Ryu_45: -410297890
+      PlayStation - Breath of Fire 4 - Ryu_60: 1531926472
+      PlayStation - Breath of Fire 4 - Ryu_54: -1174939313
+      PlayStation - Breath of Fire 4 - Ryu_55: -2094291116
+      PlayStation - Breath of Fire 4 - Ryu_123: -11484831
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
