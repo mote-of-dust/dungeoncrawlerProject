@@ -27,6 +27,9 @@ public class Mover : MonoBehaviour
     {
         movement = value.Get<Vector3>();
 
+        /*  This is really bad code. I essentially have the 'else' doing the exact same thing as it still needs xMove and yMove to update on no movement to initiate
+            idle state in the animator */
+
         if (movement != Vector3.zero)
         {
             anim.SetFloat("xMove", movement.x);
@@ -47,11 +50,8 @@ public class Mover : MonoBehaviour
             theSR.flipX = false;
         }
 
-        float rng = Random.Range(0, 3000);
-        if (rng < 50)
-        {
-            SceneManager.LoadScene(1);
-        }
+        LoadBattle();
+
     }
 
     // Update is called once per frame
@@ -59,5 +59,14 @@ public class Mover : MonoBehaviour
     {
         theRB.MovePosition(theRB.position + movement * movementSpeed * Time.deltaTime);
 
+    }
+
+    void LoadBattle()
+    {
+        float rng = Random.Range(0, 3000);
+        if (rng < 50)
+        {
+            SceneManager.LoadScene(1);
+        }
     }
 }
