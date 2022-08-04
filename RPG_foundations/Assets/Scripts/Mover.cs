@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class Mover : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class Mover : MonoBehaviour
     [SerializeField] private int movementSpeed = 5;
 
     public SpriteRenderer theSR;
+
+
 
 
     // Start is called before the first frame update
@@ -42,6 +45,12 @@ public class Mover : MonoBehaviour
         else if (theSR.flipX && movement.x > 0)
         {
             theSR.flipX = false;
+        }
+
+        float rng = Random.Range(0, 3000);
+        if (rng < 50)
+        {
+            SceneManager.LoadScene(1);
         }
     }
 
