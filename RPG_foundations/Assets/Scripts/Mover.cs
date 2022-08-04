@@ -41,6 +41,7 @@ public class Mover : MonoBehaviour
             anim.SetFloat("yMove", movement.z);
         }
 
+        //if-else statement to flip animations if moving in -x direction.
         if (!theSR.flipX && movement.x < 0)
         {
             theSR.flipX = true;
@@ -50,6 +51,7 @@ public class Mover : MonoBehaviour
             theSR.flipX = false;
         }
 
+        //Method call to create random number and if number is within a range, to initiate a scene to the battle scene.
         LoadBattle();
 
     }
@@ -61,6 +63,7 @@ public class Mover : MonoBehaviour
 
     }
 
+    //Method to create random number and if number is within a range, to initiate a scene to the battle scene.
     void LoadBattle()
     {
         float rng = Random.Range(0, 3000);
