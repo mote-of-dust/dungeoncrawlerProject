@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2983ad3bfd3f78048929be4815f6c9ea, type: 3}
+  m_Name: Floshi
+  m_EditorClassIdentifier: 
+  charName: Floshi
+  health: 15
+  mana: 350
+  portrait: {fileID: 21300000, guid: 276677e36edcfca46aba517c20ae3ba9, type: 3}
+  str: 5
+  dex: 10
+  mag: 999

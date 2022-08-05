@@ -518,7 +518,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.141527, y: 1}
+    m_SensorSize: {x: 1.7783985, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -566,6 +566,26 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7601369625446988308, guid: 284017f985d113d4c82b00336c571c51, type: 3}
   m_PrefabInstance: {fileID: 7601369626646113042}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1692365289 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7601369625446988310, guid: 284017f985d113d4c82b00336c571c51, type: 3}
+  m_PrefabInstance: {fileID: 7601369626646113042}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1692365296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1692365289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77e0477e7e75fb4e99202efbca3bb1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charac1: {fileID: 11400000, guid: a86c92dee43b61b428666fa3fa1209dd, type: 2}
+  charac2: {fileID: 11400000, guid: d888c3540651b4f4992f53b64dada7f9, type: 2}
+  charac3: {fileID: 11400000, guid: 80b3d5a5bb6d6ec45b62c0e23a964f6c, type: 2}
 --- !u!1 &1718353013
 GameObject:
   m_ObjectHideFlags: 0

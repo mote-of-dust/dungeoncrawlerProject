@@ -94,6 +94,34 @@
                     "isPartOfComposite": true
                 }
             ]
+        },
+        {
+            "name": "menu_open",
+            "id": "65ba7a8d-0442-48b2-93b4-a89f9dfdf6a2",
+            "actions": [
+                {
+                    "name": "openMenu",
+                    "type": "PassThrough",
+                    "id": "55b2b57b-a1ea-4793-a73e-63975e5dc020",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1016dcd4-292e-493f-9620-649bd4ca8c85",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "openMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
